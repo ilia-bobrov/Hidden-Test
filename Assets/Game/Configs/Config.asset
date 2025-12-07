@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Config
   m_EditorClassIdentifier: Game::Game.Configs.Config
   <IsTimerEnabled>k__BackingField: 1
-  <TimerSecs>k__BackingField: 10
+  <TimerSecs>k__BackingField: 120
   <IsItemsAsText>k__BackingField: 1
   <SimultaneousItemsCount>k__BackingField: 3
   <FadeTimeSecs>k__BackingField: 3
