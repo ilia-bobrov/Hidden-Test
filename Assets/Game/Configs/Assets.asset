@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7304620529a4debb89976dfde0f88ca, type: 3}
+  m_Name: Assets
+  m_EditorClassIdentifier: Game::Game.Configs.Assets
+  <Menu>k__BackingField:
+    <MenuScreenView>k__BackingField: {fileID: 9019222568841725530, guid: 6ae1304bab105e247a00ca6b9c1ed8fc, type: 3}
+    <BackgroundView>k__BackingField: {fileID: 8325532210236230841, guid: 643babc2f20dffd42b63fc4e4e4f7e49, type: 3}
+  <Game>k__BackingField:
+    <GameScreenView>k__BackingField: {fileID: 9145254765976063541, guid: 5b69508a64310b443be97996db1876ac, type: 3}
+    <BackgroundView>k__BackingField: {fileID: 3476953330026589313, guid: 41fbc2be38d5b684da6adad17bad91c2, type: 3}
+    <ItemView>k__BackingField: {fileID: 7610833187556793145, guid: 390c7c04df99e0a4faed408686b06d7c, type: 3}
+    <LoseScreenView>k__BackingField: {fileID: 3891579668028677947, guid: cc76a767e32967649bcfbb5bfbea20da, type: 3}
+    <WinScreenView>k__BackingField: {fileID: 7406803716468509553, guid: 87a87765f6cafae4188d479029871c10, type: 3}
